@@ -1,0 +1,8 @@
+{
+    "notebook.cellFocusIndicator": "border",
+    "notebook.cellToolbarVisibility": "hover",
+    "notebook.consolidatedRunButton": true,
+    "notebook.showFoldingControls": "always",
+    "python.analysis.typeCheckingMode": "basic",
+    "chatgpt.gpt3.apiKey": "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"
+}
